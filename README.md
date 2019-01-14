@@ -1,1 +1,1 @@
-# star-db
+Приложение Star DB
